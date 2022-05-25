@@ -22,7 +22,7 @@ notebooks for intensive lecture
     - [3-3. 梯度学习](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-3.ipynb)
     - [3-4. 神经网络的梯度学习](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-4.ipynb)
 - [4. 神经网络的基础2](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section4/README.md)
-    - [4-1. 图像处理和和卷积演算(https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section4/4-1.ipynb)
+    - [4-1. 图像处理和和卷积演算](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section4/4-1.ipynb)
     - [4-2. 离散数据和分散表現](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section4/4-2.ipynb)
     - [4-3. 时间序列数据和递推构造](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section4/4-3.ipynb)
 - [5.神经网络的基础3](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section5/README.md)
