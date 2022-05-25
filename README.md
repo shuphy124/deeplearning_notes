@@ -7,14 +7,14 @@ notebooks for intensive lecture
 
 > 【注意】：プログラムのソースコードは実は「著作物」です。このリポジトリで多くのプログラムを使用しますが、その著作権に関わる取り決めはMITライセンス https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/LICENSE にある通りとします。MITライセンスについては https://ja.wikipedia.org/wiki/MIT_License などご参照下さい。尚、4-2, 4-3, 5-1, 6-3, 7-3, 8-1, 8-2, 8-3, 9-1 には、私以外の方の作成したソースコードを改変したものが含まれている(それぞれのライセンスについては引用箇所や末尾に記載しました)ので、個人使用を超えた使用の際にはご注意下さい。
 
-- [1. 機械学習の目的と確率論の復習](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/README.md)
-    - [1-1. 大雑把な分類](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-1.ipynb)
-    - [1-2. 多項式フィッティング](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-2.ipynb)
-    - [1-3. 確率論のおさらい](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-3.ipynb)
+- [1. 机器学习的目的和概率论的复习](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/README.md)
+    - [1-1. 大概的分类](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-1.ipynb)
+    - [1-2. 多项式fiting](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-2.ipynb)
+    - [1-3. 概率论的回顾](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-3.ipynb)
 - [2. Kullback-Leiblerダイバージェンスと汎化](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/README.md)
-    - [2-1. 変な形のサイコロ](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-1.ipynb)
-    - [2-2. KL情報量](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-2.ipynb)
-    - [2-3. ガウス分布における最尤推定](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-3.ipynb)
+    - [2-1. 形状奇特的骰子](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-1.ipynb)
+    - [2-2. KL信息量](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-2.ipynb)
+    - [2-3. 高斯分布中的最尤推定](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-3.ipynb)
     - [2-4. 赤池情報量基準と汎化](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-4.ipynb)
 - [3. ニューラルネットワークの基礎1](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/README.md)
     - [3-1. この節の目標](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-1.ipynb)
