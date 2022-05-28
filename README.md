@@ -18,7 +18,7 @@ notebooks for intensive lecture
     - [2-3. 高斯分布中的最尤推定](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-3.ipynb)
     - [2-4. 赤池信息量基准和泛化](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section2/2-4.ipynb)
 - [3.神经网络的基础1](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/README.md)
-    - [3-1. 本章节的目标](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-1.ipynb)
+    - [3-1. 本章节的目标](https://colab.research.google.com/github/shuphy124/deeplearning_notes/blob/master/section3/3-1-trans.ipynb)
     - [3-2. 神经网络和误差函数](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-2.ipynb)
     - [3-3. 梯度学习](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-3.ipynb)
     - [3-4. 神经网络的梯度学习](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section3/3-4.ipynb)
